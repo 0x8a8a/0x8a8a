@@ -35,6 +35,3 @@ A fully on-chain Tic-Tac-Toe game using state channels, EIP-712 signatures, and 
 <a href="https://github.com/0x8a8a">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=0x8a8a&show_icons=true&theme=transparent&rank_icon=github" />
 </a>
-<a href="https://github.com/0x8a8a">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x8a8a&layout=compact&theme=transparent" />
-</a>
